@@ -1,16 +1,16 @@
-Author: Aidoo.TK <aidoo.tk@gmail.com>
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Name: GameGem VH
-Package: com.amv.memsearchvh
-Depends: firmware (>= 8.0)
-Section: Utilities
-Installed-Size: 10613
-Version: 1.5
+Name: Gyration VH
+Package: com.amv.gyrationvh
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, applist
+Version: 1.0.8
 Architecture: iphoneos-arm
-Description: Công cụ gỡ lỗi bộ nhớ cho iOS. Hỗ trợ iPhone và iPad lớn hơn iOS 8.x
-dev: aidoo
-Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
-Icon: file:///Applications/GameGemiOS.app/AppIcon29x29@2x.png
-Filename: ./debs/GameGemVH.deb
-Size: 3994668
-MD5sum: 9935f3da5c4c54d024b9e5f5586ac7eb
+Description: Kích hoạt xoay màn hình ở tất cả các ứng dụng, Màn hình chính và Màn hình khoá.
+Author: CydiaGeek <lucaluca86@aol.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Installed-Size: 489
+dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/Gyration.bundle/Gyration@2x.png
+Filename: ./debs/GyrationVH.deb
+Size: 94714
+MD5sum: 8DEFD3F1C0AE73C094FF1D757D030192
