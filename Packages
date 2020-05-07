@@ -1,5 +1,5 @@
 Name: Gyration VH
-Package: com.amv.gyrationvh
+Package: com.amv03.gyrationvh
 Priority: optional
 Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, applist
 Version: 1.0.8
@@ -18,7 +18,7 @@ MD5sum: 8defd3f1c0ae73c094ff1d757d030192
 Author: Aidoo.TK <aidoo.tk@gmail.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: GameGem VH
-Package: com.amv.memsearchvh
+Package: com.amv03.memsearchvh
 Depends: firmware (>= 8.0)
 Section: Utilities
 Installed-Size: 10613
