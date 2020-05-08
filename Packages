@@ -41,4 +41,4 @@ Architecture: iphoneos-arm
 Description: Thêm công tắt bật/tắt MobileGoose vào Control Center. Tweak đã được Mod lại để dùng cho phiên bản Việt Hoá.
 Filename: ./debs/MobileGooseModuleMod.deb
 Size: 17092
-MD5Sum: d015086d59dc42e772143ddd0731d20e
+MD5Sum: 82a37e0948f5cecd5910b596b5e85cc5
