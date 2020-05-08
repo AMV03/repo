@@ -28,3 +28,17 @@ Installed-Size: 1096
 Filename: ./debs/MobileGooseVH.deb
 Size: 4489304
 MD5Sum: 2189269ff9cd0acb26136fbe95b98bf0
+
+Package: com.amv.mobilegoosemodulemod
+Name: MobileGooseModule Mod
+Version: 1.0.2
+Depends: firmware (>=11.0), mobilesubstrate, com.opa334.ccsupport, com.amv.mobilegoosevh
+Installed-Size: 160
+Author: Capt Inc <teamcaptinc@gmail.com>
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Section: MobileGoose
+Architecture: iphoneos-arm
+Description: Thêm công tắt bật/tắt MobileGoose vào Control Center. Tweak đã được Mod lại để dùng cho phiên bản Việt Hoá.
+Filename: ./debs/MobileGooseModuleMod.deb
+Size: 17090
+MD5Sum: d015086d59dc42e772143ddd0731d20e
