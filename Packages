@@ -13,18 +13,5 @@ dev: lucaluca86
 Icon: file:///Library/PreferenceBundles/Gyration.bundle/Gyration@2x.png
 Filename: ./debs/GyrationVH.deb
 Size: 94714
-MD5sum: de6e9ceee2cf63db2f961ab4e7ece54f
+MD5Sum: de6e9ceee2cf63db2f961ab4e7ece54f
 
-Package: com.amv.mobilegoosevh
-Name: MobileGoose VH
-Depends: mobilesubstrate, preferenceloader
-Architecture: iphoneos-arm
-Description: 1 con Ngỗng gây phiền nhiễu cho thiết bị của bạn.
-Maintainer: PixelOmer
-Author: PixelOmer
-Section: Tweaks
-Version: 1.3
-Installed-Size: 1096
-Filename: ./debs/MobileGooseVH
-Size: 4489304
-MD5sum: 2189269ff9cd0acb26136fbe95b98bf0
