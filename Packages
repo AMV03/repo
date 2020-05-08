@@ -42,3 +42,33 @@ Description: Thêm công tắt bật/tắt MobileGoose vào Control Center. Twea
 Filename: ./debs/MobileGooseModuleMod.deb
 Size: 17092
 MD5Sum: 82a37e0948f5cecd5910b596b5e85cc5
+
+Package: com.amv.colorfulgoosemod
+Name: ColorfulGoose Mod
+Description: Thêm màu sắc vào Ngỗng của bạn. Tweak đã được Mod lại để dùng cho phiên bản Việt Hoá.
+Priority: optional
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: com.amv.mobilegoosevh (>=1.2)
+Maintainer: PixelOmer
+Author: PixelOmer
+Version: 1.2
+Installed-Size: 200
+Filename: ./debs/ColorfulGooseMod.deb
+Size: 8646
+MD5Sum: 5c3558592618d026bd9de36b999cfb8e
+
+Package: com.amv.joethegoosemod
+Name: Goose Name Tag Mod
+Description: Đặt tên cho Ngỗng của bạn. Tweak đã được Mod lại để dùng cho phiên bản Việt Hoá.
+Priority: optional
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: com.amv.mobilegoosevh (>=1.2)
+Maintainer: PixelOmer
+Author: PixelOmer
+Version: 1.0.1
+Installed-Size: 204
+Filename: ./debs/Goose Name Tag Mod.deb
+Size: 10852
+MD5Sum: 54d03f060719d68941716f3ef780b47d
