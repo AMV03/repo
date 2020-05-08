@@ -15,3 +15,21 @@ Filename: ./debs/GyrationVH.deb
 Size: 94656
 MD5Sum: de6e9ceee2cf63db2f961ab4e7ece54f
 
+Author: Aidoo.TK <aidoo.tk@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: GameGem VH
+Package: com.amv.memsearchvh
+Depends: firmware (>= 8.0)
+Section: Utilities
+Installed-Size: 10613
+Version: 1.5
+Architecture: iphoneos-arm
+Description: Công cụ gỡ lỗi bộ nhớ cho iOS. Hỗ trợ iPhone và iPad lớn hơn iOS 8.x
+dev: aidoo
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Icon: file:///Applications/GameGemiOS.app/AppIcon29x29@2x.png
+Filename: ./debs/GameGemVH.deb
+Size: 3994672
+MD5Sum: 33bad3388ff223a8f5b972c4d608840c
+
+
