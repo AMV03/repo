@@ -74,7 +74,7 @@ MD5Sum: 5c3558592618d026bd9de36b999cfb8e
 
 Package: com.amv.notchmask
 Name: Notch Mask
-Version: 1.1
+Version: 1.1.1
 Architecture: iphoneos-arm
 Description: Bộ Mask tai thỏ dành cho hội ae thích thỏ 🐰. Sử dụng iThemer hoặc Snowboard để kích hoạt.
 Maintainer: AMV
@@ -82,5 +82,5 @@ Author: AMV
 Section: Themes (SpringBoard)
 Installed-Size: 390
 Filename: ./debs/NotchMask.deb
-Size: 38142
-MD5Sum: 84106c66e687134acfeda59a63b7df53
+Size: 42632
+MD5Sum: d00dc2e531401307bc3c0144bb1f8f47
