@@ -10,7 +10,7 @@ Section: Tweaks
 Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Installed-Size: 489
 dev: lucaluca86
-Icon: file:///Library/PreferenceBundles/Gyration.bundle/Gyration@2x.png
+Icon: ./icons/Gyration.png
 Filename: ./debs/GyrationVH.deb
 Size: 94656
 MD5Sum: de6e9ceee2cf63db2f961ab4e7ece54f
@@ -25,6 +25,7 @@ Author: PixelOmer
 Section: Tweaks
 Version: 1.3
 Installed-Size: 1096
+Icon: ./icons/MobileGoose.png
 Filename: ./debs/MobileGooseVH.deb
 Size: 4489304
 MD5Sum: 2189269ff9cd0acb26136fbe95b98bf0
@@ -39,6 +40,7 @@ Maintainer: Capt Inc <teamcaptinc@gmail.com>
 Section: Tweaks
 Architecture: iphoneos-arm
 Description: Thêm công tắt bật/tắt MobileGoose vào Control Center. Tweak đã được Mod lại để dùng cho phiên bản Việt Hoá.
+Icon: ./icons/MobileGoose.png
 Filename: ./debs/MobileGooseModuleMod.deb
 Size: 17092
 MD5Sum: 82a37e0948f5cecd5910b596b5e85cc5
@@ -54,6 +56,7 @@ Maintainer: PixelOmer
 Author: PixelOmer
 Version: 1.0.1
 Installed-Size: 204
+Icon: ./icons/MobileGoose.png
 Filename: ./debs/GooseNameTagMod.deb
 Size: 10852
 MD5Sum: 54d03f060719d68941716f3ef780b47d
@@ -69,6 +72,22 @@ Maintainer: PixelOmer
 Author: PixelOmer
 Version: 1.2
 Installed-Size: 200
+Icon: ./icons/MobileGoose.png
 Filename: ./debs/ColorfulGooseMod.deb
 Size: 8646
 MD5Sum: 5c3558592618d026bd9de36b999cfb8e
+
+Package: com.amv.notchmask
+Name: Notch Mask
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Bộ Mask tai thỏ dành cho hội ae thích thỏ 🐰. Sử dụng iThemer hoặc Snowboard để kích hoạt.
+Maintainer: AMV
+Author: AMV
+Section: Themes (SpringBoard)
+Depends: firmware (>=8.0)
+Installed-Size: 390
+Icon: ./icons/NotchMask.png
+Filename: ./debs/NotchMask.deb
+Size: 26560
+MD5Sum: 3f9fdf9bdff7307d5133af73bbe7e150
