@@ -84,3 +84,17 @@ Installed-Size: 390
 Filename: ./debs/NotchMask.deb
 Size: 42632
 MD5Sum: d00dc2e531401307bc3c0144bb1f8f47
+
+Package: com.amv.a2vnskin
+Version: 1.0
+Section: Tweaks
+Maintainer: AMV
+Description: Skin Việt Nam cho AirPods 2.
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: AirPods 2 - VietNam Skin
+Author: AMV
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Filename: ./debs/A2-VN Skin.deb
+Size: 3108422
+MD5Sum: e13e661591b7b423acc3517a57c943fa
