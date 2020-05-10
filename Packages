@@ -95,6 +95,6 @@ Architecture: iphoneos-arm
 Name: AirPods 2 - VietNam Skin
 Author: AMV
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Filename: ./debs/A2-VNSkin.deb
+Filename: ./debs/A2VNSkin.deb
 Size: 3108422
 MD5Sum: e13e661591b7b423acc3517a57c943fa
