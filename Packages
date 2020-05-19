@@ -98,3 +98,17 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Filename: ./debs/A2VNSkin.deb
 Size: 3108422
 MD5Sum: e13e661591b7b423acc3517a57c943fa
+
+Package: com.amv.little11vh
+Name: Little11 VH
+Version: 1.2.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Installed-Size: 212
+Author: Ryan Nair
+Maintainer: Ryan Nair
+Description: Thao tác của iPhone 11 và nhiều hơn thế trên iOS 13.
+Filename: ./debs/Little11VH.deb
+Size: 26248
+MD5Sum: f23a9301a7f010270547325d13c255cd
