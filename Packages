@@ -112,3 +112,15 @@ Description: Thao tác của iPhone 11 và nhiều hơn thế trên iOS 13.
 Filename: ./debs/Little11VH.deb
 Size: 26248
 MD5Sum: f23a9301a7f010270547325d13c255cd
+
+Package: com.amv.missingbg
+Version: 1.0-b1
+Section: Themes
+Maintainer: AMV
+Description: Bộ Theme mặc định nhưng đã lược bỏ nền.
+Architecture: iphoneos-arm
+Name: Missing Background
+Author: AMV
+Filename: ./debs/MissingBackground.deb
+Size: 1577096
+MD5Sum: 0863b511782a98f1dfaa56691eacfd78
