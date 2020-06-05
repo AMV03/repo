@@ -124,3 +124,15 @@ Author: AMV
 Filename: ./debs/MissingBackground.deb
 Size: 1577096
 MD5Sum: 0863b511782a98f1dfaa56691eacfd78
+
+Package: com.amv.missingbg
+Version: 1.0
+Section: Themes
+Maintainer: AMV
+Description: ./Des/MissBgDes.mhtml
+Architecture: iphoneos-arm
+Name: Missing Background
+Author: AMV
+Filename: ./debs/MissingBackground1.0.deb
+Size: 1402178
+MD5Sum: 3719fe92b313ee05111e88f1e3519536
