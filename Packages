@@ -124,3 +124,16 @@ Author: AMV
 Filename: ./debs/MissingBackground1.0.deb
 Size: 1402178
 MD5Sum: 3719fe92b313ee05111e88f1e3519536
+
+Package: com.amv.apge
+Version: 1.0
+Section: Themes (AirPods Pro)
+Maintainer: AMV
+Description: Theme Caviar Gold Edition cho AirPods Pro.
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: AirPods Pro - Caviar Gold Edition
+Author: AMV
+Filename: ./debs/AirPodsProGoldEdition.deb
+Size: 9777654
+MD5Sum: 23326ffd5943eba7c65759e8522d2f37
