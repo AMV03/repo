@@ -126,14 +126,13 @@ Size: 1402178
 MD5Sum: 3719fe92b313ee05111e88f1e3519536
 
 Package: com.amv.apge
+Name: AirPods Pro - Caviar Gold Edition Skin
 Version: 1.0
-Section: Themes (AirPods Pro)
-Maintainer: AMV
-Description: Theme Caviar Gold Edition cho AirPods Pro.
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Name: AirPods Pro - Caviar Gold Edition
 Author: AMV
+Section: Themes (AirPods Pro)
+Description: Theme Caviar Gold Edition dành cho AirPods Pro.
+Maintainer: AMV
 Filename: ./debs/APGESkin.deb
 Size: 9777394
 MD5Sum: 86fa056060e6e2e2526944a97084ba01
