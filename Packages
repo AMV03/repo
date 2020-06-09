@@ -134,6 +134,6 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Name: AirPods Pro - Caviar Gold Edition
 Author: AMV
-Filename: ./debs/AirPodsProGoldEdition.deb
+Filename: ./debs/APGESkin.deb
 Size: 9777654
 MD5Sum: 23326ffd5943eba7c65759e8522d2f37
